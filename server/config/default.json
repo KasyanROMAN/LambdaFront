@@ -1,0 +1,5 @@
+{
+  "serverPort" : 5000,
+  "dbUrl": "mongodb+srv://Roman:2239102016223910@roman.ygrup.mongodb.net/Roman?retryWrites=true&w=majority",
+  "secretKey": "mern-secket-key"
+}
